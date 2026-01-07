@@ -1,0 +1,27 @@
+
+package hiya;
+import java.util.*;
+public class HelloWorld {
+	public static void main(String args[]) {
+		Scanner in = new Scanner(System.in);
+		System.out.print(">> ");
+		int int1 = in.nextInt();
+		System.out.print(">> ");
+		int int2 = in.nextInt();
+		int add = int1+int2;
+		int sub = int1-int2;
+		int mult = int1*int2;
+		int div;
+		if (int2 == 0) {
+			System.out.println("Int2 cannot be 0, division failed");
+		} else {
+			div = int1/int2;
+		}
+		System.out.println("Added: " + add);
+		System.out.println("Subtracted: " + sub);
+		System.out.println("Multiplied: " + mult);
+		if (int2 != 0) {
+			System.out.println("Divided: " + div);
+		}
+	}
+}

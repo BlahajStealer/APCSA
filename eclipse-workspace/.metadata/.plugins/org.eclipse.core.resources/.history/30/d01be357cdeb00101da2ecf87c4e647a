@@ -1,0 +1,41 @@
+
+package hiya;
+import java.util.*;
+public class HelloWorld {
+	public static void main(String args[]) {
+		Scanner in = new Scanner(System.in);
+		System.out.print(">> ");
+		int int1 = in.nextInt();
+		System.out.print(">> ");
+		int int2 = in.nextInt();
+		int add = int1+int2;
+		int sub = int1-int2;
+		int mult = int1*int2;
+		int div = 0;
+		if (int2 == 0) {
+			System.out.println("Int2 cannot be 0, division failed");
+		} else {
+			div = int1/int2;
+		}
+		System.out.println("Added: " + add);
+		System.out.println("Subtracted: " + sub);
+		System.out.println("Multiplied: " + mult);
+		if (int2 != 0) {
+			System.out.println("Divided: " + div);
+		}
+		System.out.println("Now please enter two numbers that would produce a decimal!");
+		System.out.print(">> ");
+
+		int divInt1 = in.nextInt();
+		System.out.print(">> ");
+
+		int divInt2 = in.nextInt();
+		System.out.println("int Division: " + (divInt1/divInt2));
+		float divFloat1 = divInt1;
+		float divFloat2 = divInt2;
+		System.out.println("float Division: " + (divFloat1/divFloat2));
+		System.out.println("Modulo Division: " + (divFloat1%divFloat2));
+		
+
+	}
+}

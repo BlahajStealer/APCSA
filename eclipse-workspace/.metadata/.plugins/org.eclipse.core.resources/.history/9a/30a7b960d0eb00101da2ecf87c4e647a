@@ -1,0 +1,14 @@
+package tempConv;
+import java.util.*;
+public class Temperature {
+	public static void main(String args[]) {
+		
+		Scanner in = new Scanner(System.in);
+		System.out.println("----------\nTemperatue\n----------");
+		System.out.print("\nPlease input Farenheit and the program will convert to Celsius!\n>> ");
+		double far = in.nextDouble();
+		double cel = (far-32) * (5/9);
+		System.out.println("\n" + far + " in celsius is " + cel);
+		in.close();
+	}
+}

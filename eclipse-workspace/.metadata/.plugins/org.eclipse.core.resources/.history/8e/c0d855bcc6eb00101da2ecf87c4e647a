@@ -1,0 +1,17 @@
+
+package hiya;
+import java.util.*;
+public class HelloWorld {
+	public static void main(String args[]) {
+		Scanner in = new Scanner(System.in);
+		System.out.print(">> ");
+		int int1 = in.nextInt();
+		System.out.print(">> ");
+		int int2 = in.nextInt();
+		int add;
+		int sub;
+		int mult;
+		int div;
+		System.out.print("Hello, World!" + str);
+	}
+}
