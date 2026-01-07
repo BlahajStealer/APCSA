@@ -1,0 +1,330 @@
+🧱 Unit 1: Primitive Types & Output
+
+(variables, math, casting, System.out.print)
+
+1. Number Playground
+
+Take two numbers
+
+Print:
+
+sum, difference, product, quotient
+
+integer division vs double division
+
+Show casting effects
+
+🎯 primitives, operators
+🔁 none
+
+2. Temperature Converter
+
+Fahrenheit ↔ Celsius
+
+Print nicely formatted output
+
+🎯 math expressions
+🔁 variables
+
+3. Receipt Generator
+
+Item prices
+
+Subtotal, tax, total
+
+Round to 2 decimals
+
+🎯 doubles, precision
+🔁 arithmetic
+
+🔀 Unit 2: Using Objects & Strings
+
+(String methods, Math class)
+
+4. Username Generator
+
+First name + last name → username
+
+Use:
+
+.substring()
+
+.length()
+
+.toLowerCase()
+
+🎯 String methods
+🔁 variables
+
+5. Password Strength Checker
+
+Length check
+
+Contains !, @, or #
+
+Print strength message
+
+🎯 String logic
+🔁 conditionals-lite
+
+6. Dice Simulator
+
+Roll two dice using Math.random()
+
+Print results
+
+🎯 Math.random
+🔁 arithmetic
+
+🔍 Unit 3: Boolean Expressions & if Statements
+7. Grade Calculator
+
+Input score
+
+Output letter grade
+
+Handle edge cases
+
+🎯 if / else
+🔁 math
+
+8. Login Simulator
+
+Correct username/password?
+
+Locked out after 3 attempts (hardcoded attempts)
+
+🎯 boolean logic
+🔁 Strings
+
+9. Triangle Type Detector
+
+Given 3 sides
+
+Equilateral / Isosceles / Scalene / Invalid
+
+🎯 compound conditions
+🔁 math
+
+🔁 Unit 4: Iteration (Loops)
+10. Counting Tool
+
+Count up/down
+
+Print evens only
+
+Print sum
+
+🎯 for / while
+🔁 if statements
+
+11. Number Guessing Game
+
+Random number 1–100
+
+Loop until correct
+
+Count guesses
+
+🎯 loops + conditionals
+🔁 Math.random
+
+12. Multiplication Table Generator
+
+Print tables 1–12
+
+🎯 nested loops
+🔁 formatting
+
+📦 Unit 5: Writing Classes
+
+(constructors, instance variables, methods)
+
+13. Student Class
+
+Fields: name, GPA
+
+Methods: updateGPA, getStatus()
+
+🎯 class basics
+🔁 primitives
+
+14. Bank Account
+
+Balance
+
+Deposit / withdraw
+
+Prevent overdraft
+
+🎯 encapsulation
+🔁 if statements
+
+15. Rectangle Class
+
+Width, height
+
+Area, perimeter, scale()
+
+🎯 methods
+🔁 math
+
+🧠 Unit 6: Arrays
+16. Test Score Analyzer
+
+Store scores in array
+
+Average, max, min
+
+🎯 arrays
+🔁 loops
+
+17. Seating Chart
+
+Boolean array of seats
+
+Reserve / free seats
+
+🎯 indexing
+🔁 conditionals
+
+18. Shift Array
+
+Shift elements left/right
+
+🎯 array manipulation
+🔁 loops
+
+📚 Unit 7: ArrayLists
+19. To-Do List App
+
+Add / remove tasks
+
+Print tasks
+
+🎯 ArrayList
+🔁 loops
+
+20. Inventory System
+
+Add items
+
+Remove out-of-stock
+
+Count items
+
+🎯 dynamic lists
+🔁 conditionals
+
+21. Playlist Manager
+
+Songs list
+
+Shuffle (simple)
+
+Remove duplicates
+
+🎯 ArrayList logic
+🔁 Strings
+
+🧬 Unit 8: 2D Arrays
+22. Grid Printer
+
+Print 2D array
+
+Row & column sums
+
+🎯 2D arrays
+🔁 nested loops
+
+23. Tic-Tac-Toe Engine
+
+Board as char[][]
+
+Win detection
+
+🎯 grid logic
+🔁 conditionals
+
+24. Heatmap Analyzer
+
+Find hottest row/column
+
+🎯 traversal
+🔁 math
+
+🧬 Unit 9: Inheritance
+25. Animal Hierarchy
+
+Animal → Dog / Cat
+
+Override methods
+
+🎯 inheritance
+🔁 classes
+
+26. Shape System
+
+Shape → Circle / Rectangle
+
+Area overridden
+
+🎯 polymorphism
+🔁 math
+
+27. Game Character System
+
+Character → Mage / Warrior
+
+Shared + unique abilities
+
+🎯 method overriding
+🔁 conditionals
+
+🧪 Unit 10: Recursion (Lightly Tested)
+28. Recursive Countdown
+
+Count down to 0
+
+🎯 recursion basics
+🔁 methods
+
+29. Recursive Array Sum
+
+Sum array using recursion
+
+🎯 recursive thinking
+🔁 arrays
+
+30. Maze Solver (Optional Hard)
+
+DFS-style recursion on grid
+
+🎯 recursion + 2D arrays
+🔁 EVERYTHING
+
+🏁 Final Mega Projects (Optional but AMAZING)
+31. Text-Based RPG
+
+Characters (inheritance)
+
+Inventory (ArrayList)
+
+Stats (arrays)
+
+🎯 full AP coverage
+
+32. AP-Style FRQ Pack
+
+Recreate:
+
+NumberCube
+
+StepTracker
+
+WordMatch
+
+LightBoard
+
+🎯 exam readiness
+🔁 all units
