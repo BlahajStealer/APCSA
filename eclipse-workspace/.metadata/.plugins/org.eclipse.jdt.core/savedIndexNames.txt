@@ -1,8 +1,5 @@
-INDEX VERSION 1.134+/Users/blahajstealer/Documents/APCSA/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
-188163091.index
-3898629831.index
-2501145982.index
-3316075717.index
+INDEX VERSION 1.134+C:\Users\Ashley\Documents\GitHub\APCSA\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
 1865797976.index
-1074598912.index
-2405412945.index
+14874714.index
+3965997279.index
+2724689975.index
