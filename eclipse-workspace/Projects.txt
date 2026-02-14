@@ -148,7 +148,7 @@ Methods: updateGPA, getStatus()
 
 🎯 class basics
 🔁 primitives
-
+ 
 14. Bank Account
 
 Balance
