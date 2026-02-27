@@ -6,4 +6,7 @@
     <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="inventoryStocker.invStock"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="org.jline.terminal.Attributes.LocalFlag"/>
+    <fullyQualifiedTypeName name="org.jline.terminal.TerminalBuilder"/>
+    <fullyQualifiedTypeName name="org.jline.reader.LineReaderBuilder"/>
 </qualifiedTypeNameHistroy>
